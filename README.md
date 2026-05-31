@@ -110,41 +110,6 @@ Tracks checkout lifecycles. The final element indicates return states ($0 = Issu
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-To compile and execute the system, ensure you have a standard C compiler configured (e.g., `gcc`, `clang`, or MSVC environments).
-
-### Compilation
-
-Open your system terminal inside the root working directory where the source code file is located and run the following command:
-
-```bash
-gcc -o library_system Library_Management_System.c
-
-```
-
-### Execution
-
-Run the compiled executable application directly from the terminal prompt:
-
-#### Windows Environment
-
-```cmd
-library_system.exe
-
-```
-
-#### Linux / macOS Environments
-
-```bash
-./library_system
-
-```
-
----
-
 ## 📖 User Guides & Operation Flow
 
 ### 1. Administration Interface Guide
