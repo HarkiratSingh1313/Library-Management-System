@@ -1,0 +1,19 @@
+New student registered.
+Book added.
+Book issued.
+Book added.
+Book added.
+Book added.
+Book added.
+Book deleted.
+Book deleted.
+Book deleted.
+Book deleted.
+Book added.
+Book added.
+Book added.
+Book added.
+Book added.
+Book added.
+Book added.
+Book added.
